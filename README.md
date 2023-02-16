@@ -1,2 +1,1 @@
-# github-practices
-A new line 
+a new line
